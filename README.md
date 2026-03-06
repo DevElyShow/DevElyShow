@@ -1,103 +1,99 @@
-<h1 align="center">Hi 👋 I'm Elydeivison Cesar</h1>
-
-<p align="center">
-Full Stack Developer in progress 🚀
-</p>
+<h1 align="center">Hi 👋, I'm Elydeivison Cesar</h1>
+<h3 align="center">Front-end Developer in training | Future Full Stack</h3>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-Sou apaixonado por tecnologia e desenvolvimento web.
+I'm transitioning into the **software development field**, currently focusing on building solid foundations in **JavaScript and modern web development**.
 
-Atualmente estou focado em **Front-end com React**, enquanto continuo evoluindo minhas habilidades **Full Stack com Node.js e MongoDB**.
+I already have experience building projects using:
 
-Gosto de entender não apenas *como as coisas funcionam*, mas também **por que elas funcionam**, buscando sempre escrever código limpo, organizado e escalável.
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express
+- MongoDB
 
-🎯 Atualmente buscando **oportunidade de estágio em desenvolvimento**
+Right now my learning roadmap is moving towards **React**, where I will deepen my knowledge in **component-based architecture and modern front-end development**.
 
----
-
-## 📍 Location & Contact
-
-📍 Recife - Brasil
-📧 [dev.elydeivison@gmail.com](mailto:dev.elydeivison@gmail.com)
+I enjoy creating practical projects to strengthen my skills and I'm currently looking for **my first opportunity as a developer intern**.
 
 ---
 
 # 🚀 Tech Stack
 
 ### Frontend
-
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&theme=dark" />
 </p>
 
 ### Backend
-
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
 </p>
 
 ### Tools
-
 <p>
-<img src="https://skillicons.dev/icons?i=git,vscode,figma,linux" />
-</p>
-
----
-
-# 🌐 Connect with me
-
-<p>
-<a href="https://github.com/DevElyShow">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/elydeivisoncesar">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<img src="https://skillicons.dev/icons?i=git,vscode,figma,linux&theme=dark" />
 </p>
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=DevElyShow&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=DevElyShow&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevElyShow&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevElyShow&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevElyShow&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 👾 Contributions
-
-![Pacman](https://raw.githubusercontent.com/DevElyShow/DevElyShow/output/pacman.svg)
+</div>
 
 ---
 
 # 📌 Featured Projects
 
-🚀 Alguns projetos que desenvolvi:
+### 🔴 Pokedex
+A Pokémon search application consuming an external API.
 
-* 🔹 **Pokedex App** – Consumo de API com JavaScript
-* 🔹 **Password Generator** – Gerador de senhas seguras
-* 🔹 **Login System** – Sistema de autenticação com Node.js
-* 🔹 **Movie Portal** – Portal de filmes consumindo API
+Repository:
+https://github.com/DevElyShow/Pokedex
+
+Live Project:
+https://pokedex-azure-sigma.vercel.app
 
 ---
 
-<p align="center">
-⭐ Obrigado por visitar meu perfil!
+### 🔐 Login Portal Simulation
+Authentication system simulation with backend integration.
+
+Repository:
+https://github.com/DevElyShow
+
+---
+
+# 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/DevElyShow/DevElyShow/output/github-contribution-grid-snake.svg)
+
+---
+
+# 📫 Contact
+
+<p align="left">
+
+<a href="https://www.linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:your-email@email.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
 </p>
+
+---
+
+⭐ From [DevElyShow](https://github.com/DevElyShow)
