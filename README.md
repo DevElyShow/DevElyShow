@@ -5,7 +5,7 @@
 
 # 👨‍💻 About Me
 
-I'm transitioning into the **software development field**, currently focusing on building solid foundations in **JavaScript and modern web development**.
+I'm **software development field**, currently focusing on building solid foundations in **JavaScript and modern web development**.
 
 I already have experience building projects using:
 
@@ -72,6 +72,15 @@ Authentication system simulation with backend integration.
 Repository:
 https://github.com/DevElyShow
 
+---
+### 🔴 Agenda de Contatos
+This project, developed in Node.js with MongoDB connectivity, aims to create a contact list for each user. Session validations were implemented, along with connectivity to a ViaCep API.
+
+Repository:
+[https://github.com/DevElyShow/projeto-agenda]
+
+Live Project:
+https://projeto-agenda-amber.vercel.app/
 ---
 
 # 🐍 Contribution Snake
